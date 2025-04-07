@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 I'm Potti Mokshagna, a tech-savvy student at VIT-AP, driven by the <br>ambition to become a next-gen Web Developer. I specialize in <br>building intuitive, full-stack solutions using HTML, CSS, JavaScript, <br>React, Node.js, Express, and have a strong foundation in C/C++, <br>Python, Java, MySQL, R, and DSA.<br>I’ve engineered a Smart Vault Locker with fingerprint authentication <br>and contributed to mazePy, a Python-based game. As a problem <br>solver, fast learner, and team player, I thrive in innovation-focused <br>environments where code meets creativity.<br><br>Portfolio: https://portfoliomok.ccbp.tech<br>GitHub: https://github.com/POTTI-MOKSHAGNA<br>LinkedIn: https://www.linkedin.com/in/mokshagna-potti/
 
